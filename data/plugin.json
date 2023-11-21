@@ -1,0 +1,30 @@
+{
+    "name" : "DIGITAL FARMERS",
+    "logo": "../img/web-developer-arif.jpg",
+    "services": [
+        {
+            "name": "FIGMA Website Design",
+            "slug": "#figma-website-design"
+        },
+        {
+            "name": "WordPress Theme Development",
+            "slug": "#wordpress-theme-development"
+        },
+        {
+            "name": "WordPress Plugin Development",
+            "slug": "#wordpress-plugin-development"
+        },
+        {
+            "name": "React Js Development",
+            "slug": "#react-js-development"
+        },
+        {
+            "name": "Next Js Development",
+            "slug": "#next-js-development"
+        },
+        {
+            "name": "PSD to HTML",
+            "slug": "#psd-to-html"
+        }
+    ]
+}
